@@ -69,7 +69,7 @@ ul li::before{
     height: 28px;
     width:28px;
     border-radius: 10%;
-    background-image: url("Images/toggle-off.svg");
+    background-image: url("Images/toggle-off.jpg");
     background-size: cover;
     background-position: center;
     left: 8px;
@@ -80,7 +80,7 @@ ul li.checked{
     color:#555;
 }
 ul li.checked::before{
-    background-image: url("Images/toggle-on.svg");
+    background-image: url("Images/toggle-on.jpg");
     background-size: cover;
     background-position: center;
 }
